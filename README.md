@@ -50,6 +50,3 @@ npx serve .
 
 This is a fork of [AgrimJoshi1/FocusBoard](https://github.com/AgrimJoshi1/FocusBoard).
 
-## License
-
-Add a license here if applicable.
